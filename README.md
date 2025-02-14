@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Connor Train! 
 
-<!--
-**ConnorTrain/ConnorTrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Sports Analyst | Data Enthusiast | Performance Science**  
 
-Here are some ideas to get you started:
+I'm a **Master’s student in Sports Management (Analytics concentration) at Northwestern University**, passionate about using **data science, biomechanics, and performance analysis** to enhance athlete performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 **What I Do**
+- ⚾ **Sports Analytics** – Player performance evaluation, game strategy, and data visualization.
+- 📊 **Data Science** – Python, R, SQL, data visualization, and predictive modeling.
+- 🏋 **Performance Science** – Biomechanics, athlete monitoring, and sports technology.
+- 🤖 **Machine Learning & AI** – Exploring applications in sports performance and injury prevention.
+
+---
+
+### 🛠 **Tech & Tools**
+- 💻 **Languages:** Python 🐍, R 📊, SQL 🗄  
+- 📚 **Libraries & Frameworks:** Pandas 🐼, NumPy 🔢, Matplotlib 📉, Seaborn 🌊, Scikit-learn 🤖  
+- 🛠 **Tools:** Jupyter Notebook 📓, Tableau 📊, Excel 📑, Git 🌍  
+
+---
+
+### 📂 **Projects & Work**
+🔹 ⚾ [**MLB Player Performance Analysis**](#) – Evaluating hitting and pitching trends using advanced metrics.  
+🔹 🏈 [**NFL Win Probability Model**](#) – Predicting in-game win probabilities using machine learning.  
+🔹 🏀 [**Basketball Four-Factor Model**](#) – Analyzing team performance using Dean Oliver’s four factors.  
+
+---
+
+### 📫 **Get in Touch**
+📧 **Email:** connortrain2026@u.northwestern.edu  
+🔗 **LinkedIn:** [linkedin.com/in/connortrain](#)  
+📊 **GitHub:** [github.com/ConnorTrain](https://github.com/ConnorTrain)  
+
+---
+
+💡 *Always looking to connect with professionals and collaborate on sports analytics projects!* 🚀  
