@@ -33,13 +33,4 @@ I'm a **Master’s student in Sports Management (Analytics concentration) at Nor
 - **LinkedIn:** [linkedin.com/in/connortrain](#)  
 - **GitHub:** [github.com/ConnorTrain](https://github.com/ConnorTrain)  
 
----
 
-This version **removes emojis** while keeping it **structured, professional, and easy to read**. It still highlights **your skills, projects, and contact information in a clear and engaging way**.  
-
----
-
-### **Commit Message for This Version:**  
-📌 **"Create initial GitHub Profile README with bio, skills, and projects"**  
-
-Would you like any further refinements? 🚀
