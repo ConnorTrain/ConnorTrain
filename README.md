@@ -2,7 +2,7 @@
 
 **Aspiring Sports Analyst | Data Enthusiast | Performance Science**  
 
-I'm a **Master’s student in Sports Management (Analytics concentration) at Northwestern University**, passionate about using **data science, biomechanics, and performance analysis** to enhance athlete performance.
+I'm a Master’s student in Sports Management (Analytics concentration) at Northwestern University, passionate about using data science, biomechanics, and performance analysis to enhance athlete performance.
 
 ---
 
